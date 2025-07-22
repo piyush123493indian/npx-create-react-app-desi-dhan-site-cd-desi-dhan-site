@@ -26,3 +26,30 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+npx create-react-app desi-dhan-site
+cd desi-dhan-site
+import React from "react";
+
+export default function DesiDhanLandingPage() { return ( 
+
+{/* Hero Section */} Desi Dhan 
+
+Apna Coin, Apni Shaan – Desi Dhan leke aa gaya meme revolution! 
+
+Buy Now View Chart 
+
+{/* About Section */} <section className="px-6 py-12 max-w-4xl mx-auto text-center"> <h2 className="text-3xl font-bold text-orange-700">About Desi Dhan</h2> <p className="mt-4 text-lg"> Desi Dhan is a meme coin born from India’s love for jugaad, fun, and financial freedom. It’s not just a token—it’s a cultural wave. Powered by Solana, made with pure desi swag. 🇮🇳 </p> </section> {/* Tokenomics */} <section className="bg-orange-100 py-12"> <h2 className="text-3xl font-bold text-center text-orange-800">Tokenomics</h2> <div className="grid grid-cols-2 md:grid-cols-4 gap-6 px-6 mt-8 max-w-5xl mx-auto text-center"> <div> <p className="text-2xl font-bold">1,00,00,00,000</p> <p>Total Supply</p> </div> <div> <p className="text-2xl font-bold">25%</p> <p>Burn</p> </div> <div> <p className="text-2xl font-bold">70%</p> <p>Community</p> </div> <div> <p className="text-2xl font-bold">5%</p> <p>Liquidity</p> </div> </div> </section> {/* Roadmap */} <section className="px-6 py-12 max-w-5xl mx-auto"> <h2 className="text-3xl font-bold text-orange-800 text-center">Roadmap – The Yatra</h2> <ul className="mt-8 space-y-4"> <li>✅ Coin Launch on Pump.fun</li> <li>✅ Website, Logo, Tokenomics</li> <li>📣 Meme Campaigns, Telegram Growth</li> <li>📊 CoinGecko/CMC Listing</li> <li>🎨 Desi Dhan NFTs</li> <li>📱 $DD App: "Chai aur Crypto"</li> </ul> </section> {/* Join Section */} <section className="bg-orange-200 text-center py-10"> <h2 className="text-3xl font-bold text-orange-900">Join the Dhan-dhamaka!</h2> <p className="mt-2">Be a part of the biggest desi meme coin movement!</ 
+
+import React from "react";
+
+export default function DesiDhanLandingPage() { return ( 
+
+{/* Hero Section */} Desi Dhan 
+
+Apna Coin, Apni Shaan – Desi Dhan leke aa gaya meme revolution! 
+
+Buy Now View Chart 
+
+{/* About Section */} <section className="px-6 py-12 max-w-4xl mx-auto text-center"> <h2 className="text-3xl font-bold text-orange-700">About Desi Dhan</h2> <p className="mt-4 text-lg"> Desi Dhan is a meme coin born from India’s love for jugaad, fun, and financial freedom. It’s not just a token—it’s a cultural wave. Powered by Solana, made with pure desi swag. 🇮🇳 </p> </section> {/* Tokenomics */} <section className="bg-orange-100 py-12"> <h2 className="text-3xl font-bold text-center text-orange-800">Tokenomics</h2> <div className="grid grid-cols-2 md:grid-cols-4 gap-6 px-6 mt-8 max-w-5xl mx-auto text-center"> <div> <p className="text-2xl font-bold">1,00,00,00,000</p> <p>Total Supply</p> </div> <div> <p className="text-2xl font-bold">25%</p> <p>Burn</p> </div> <div> <p className="text-2xl font-bold">70%</p> <p>Community</p> </div> <div> <p className="text-2xl font-bold">5%</p> <p>Liquidity</p> </div> </div> </section> {/* Roadmap */} <section className="px-6 py-12 max-w-5xl mx-auto"> <h2 className="text-3xl font-bold text-orange-800 text-center">Roadmap – The Yatra</h2> <ul className="mt-8 space-y-4"> <li>✅ Coin Launch on Pump.fun</li> <li>✅ Website, Logo, Tokenomics</li> <li>📣 Meme Campaigns, Telegram Growth</li> <li>📊 CoinGecko/CMC Listing</li> <li>🎨 Desi Dhan NFTs</li> <li>📱 $DD App: "Chai aur Crypto"</li> </ul> </section> {/* Join Section */} <section className="bg-orange-200 text-center py-10"> <h2 className="text-3xl font-bold text-orange-900">Join the Dhan-dhamaka!</h2> <p className="mt-2">Be a part of the biggest desi meme coin movement!</ 
+
+
